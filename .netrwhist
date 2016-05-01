@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/duncanrenfrow-symon/Documents/Union_Capital/unionCapital/meteor/packages'
+let g:netrw_dirhist_2='/Users/duncanrenfrow-symon/Documents/Union_Capital/unionCapital/meteor/collections'
+let g:netrw_dirhist_3='/Users/duncanrenfrow-symon/Documents/Union_Capital/unionCapital/meteor'
+let g:netrw_dirhist_4='/Users/duncanrenfrow-symon/.vim'
+let g:netrw_dirhist_5='/Users/duncanrenfrow-symon/Documents/Meteor_App/map-control/.git'
